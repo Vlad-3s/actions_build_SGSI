@@ -3,7 +3,7 @@
   "rom_name": "update.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
-  "rom_type": "h2os",
+  "rom_type": "miui",
   "light_fix": true,
   "bug_fix": true,
   "version": "11",

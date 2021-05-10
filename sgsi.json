@@ -9,6 +9,6 @@
   "version": "11",
   "upload_transfer": true,
   "upload_release": false,
-  "use_7zip": false,
-  "use_zip": true
+  "use_7zip": true,
+  "use_zip": false
 }

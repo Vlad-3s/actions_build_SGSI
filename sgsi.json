@@ -1,14 +1,14 @@
 {
-  "rom_url": "http://otafs-cost.coloros.com/RMX2072/RMX2071_11.A.18_11801510_202012290223/patch/CHN/RMX2071/RMX2071_11.A.18_11801510_202012290223/RMX2071_11_OTA_11801510_all_3ofIeEGqtsQ4_5f4dd0e7519.ozip",
-  "rom_name": "update.ozip",
-  "pack_sgsi": "SGSI.zip",
+  "rom_url": "https://dwz.mk/Fne22a",
+  "rom_name": "update.zip",
+  "pack_sgsi": "SGSI.7z",
   "make_type": "AB",
   "rom_type": "color",
-  "light_fix": false,
+  "light_fix": true,
   "bug_fix": true,
   "version": "11",
   "upload_transfer": true,
   "upload_release": true,
-  "use_7zip": false,
+  "use_7zip": true,
   "use_zip": false
 }
